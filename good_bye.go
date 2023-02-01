@@ -1,5 +1,5 @@
 package SayGoodBye
 
 func SayGoodBye() string {
-	return "Good Bye! :( See you soon!"
+	return "Good Bye! :( See You SOON!"
 }
