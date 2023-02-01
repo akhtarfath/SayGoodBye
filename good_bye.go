@@ -1,5 +1,5 @@
 package SayGoodBye
 
-func SayGoodBye() string {
-	return "Good Bye! :( See You SOON!"
+func SayGoodBye(name string) string {
+	return "Good Bye " + name + "! :( See You SOON!"
 }
